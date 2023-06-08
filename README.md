@@ -43,4 +43,11 @@ OS：这些人都是在我的照片上的人
 
 ## 游戏风格
 该游戏参考风格为哥特式、中世纪和克苏鲁，为玩家制造独特的游戏探索场景
-！
+
+<img src="https://github.com/ChaoT1de/Dream/assets/126697067/17190f1d-0d6b-4916-b687-c044a9da24f0" width="295px"> <img src="https://github.com/ChaoT1de/Dream/assets/126697067/fe6961db-b6ee-4aba-90e9-83ea9c9a4e16" width="295px"> <img src="https://github.com/ChaoT1de/Dream/assets/126697067/47eee4a0-52f0-498a-b7ac-48365b9887df" width="295px">
+
+<img src="https://github.com/ChaoT1de/Dream/assets/126697067/e2ffdecd-4561-4562-ae03-db0a914a85d3" width="495px"> <img src="https://github.com/ChaoT1de/Dream/assets/126697067/01c4e7b7-2b3c-417e-8c15-28c01ff3a459" width="495px">
+
+
+
+摘下VR后，人带着面具站在玩家面前。
