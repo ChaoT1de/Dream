@@ -3,15 +3,15 @@ About the Dream Experience VR game project
 ## 人员
 Kunanbayi Shugela  22044265
 
-Chao Qin 22017368
+Chao Qin： 22017368
 
-Yue Zhan 21032825
+Yue Zhan： 21032825
 
-Ou Yang 22010243
+Ou Yang： 22010243
 
-Yunfan Guo 22039409
+Yunfan Guo： 22039409
 
-Jiayue He 22012108
+Jiayue He： 22012108
 
 ## 游戏名称：Dream 
 ## 运行环境：PC/VR 
