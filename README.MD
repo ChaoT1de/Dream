@@ -5,7 +5,7 @@
 #### Game Engine: UE5.1.1 & 5.0.3
 
 ## Team 
-Kunanbayi Shugeka: 22044265
+Kunanbayi Shugela: 22044265
 
 Chao Qin: 22017368
 
@@ -24,7 +24,7 @@ Jiayue He： 22012108
 
 ## Inspiration
 
-##### We drew inspiration for this game from two dreams.。
+##### We drew inspiration for this game from two dreams.
 
 
 Dream 1:
