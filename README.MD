@@ -65,7 +65,7 @@ The player discovers that people have started trading eyelids in order to commun
 Upon exploring a church, the player encounters a doctor (plague doctor) with a parchment on the table containing the rules. After closing the reading interface, the player realizes that the doctor has approached them from a distance, causing a decrease in sanity. The church becomes filled with corpses, bones, and bloodstains, and the screen gradually turns black. Once the screen is completely black, a sentence appears: "Someone is waiting for your eyelids."
 After taking off the VR headset, a person wearing a mask stands in front of the player.
 
-## Game Style:
+## Game Style
 The game style incorporates elements of Gothic, Medieval, Lovecraftian, andAnti-war themes.
 
 <img src="https://github.com/ChaoT1de/Dream/assets/126697067/17190f1d-0d6b-4916-b687-c044a9da24f0" width="295px"> <img src="https://github.com/ChaoT1de/Dream/assets/126697067/fe6961db-b6ee-4aba-90e9-83ea9c9a4e16" width="295px"> <img src="https://github.com/ChaoT1de/Dream/assets/126697067/47eee4a0-52f0-498a-b7ac-48365b9887df" width="295px">
@@ -74,7 +74,7 @@ The game style incorporates elements of Gothic, Medieval, Lovecraftian, andAnti-
 
 <img src="https://github.com/ChaoT1de/Dream/assets/126697067/361f0ae2-6ff0-4f1a-8cfe-9e91db015302" width="295px"> <img src="https://github.com/ChaoT1de/Dream/assets/126697067/c40b70c7-cdf4-49b8-aebb-1d35f606cec3" width="295px"> <img src="https://github.com/ChaoT1de/Dream/assets/126697067/2bb73eaf-75ad-4c75-9657-2222f69b69d7" width="295px">
 
-## Game Mechanics:
+## Game Mechanics
 In the game's setting, the player enters a dream world, so there is no dialogue, and the player's next action is instructed through self-reference.There are four scene transitions in the game: Battlefield, Subway, Warehouse, Village, Escape Route, and Church. There are no additional cutscenes during scene transitions, allowing the player to freely move and smoothly transition from one scene to another, maintaining full control over the game's progression and exploration pace. This ensures a seamless and coherent gaming experience. When encountering specific events in the game, the player's sanity value will decrease, resulting in visual effects such as dark mist, distorted text, heartbeat sounds, screen filters, ringing in the ears, and more. These effects allow the player to experience the psychological changes of the character, further enhancing the depth and immersive nature of the game.
 
 ## Development Process
@@ -138,7 +138,7 @@ Each week of the development process has been the result of our team's continuou
 
 <img src="https://github.com/ChaoT1de/Dream/assets/126697067/78f1a32c-7a50-43fe-bcbe-6671c1a32722" width="1000px">
 
-### Week6: Teat
+### Week6: Test
 This week, we conducted testing for the game and encountered some issues during the process. We focused on testing the game's functionality and user experience to identify potential issues and areas for improvement.
 One issue we encountered was the stability of the VR connection. We found that in certain cases, there were issues with the connection between the VR device and the game, resulting in players unable to have a smooth experience. To address this issue, we conducted a series of tests and debugging, including checking the compatibility of devices and drivers, and optimizing the VR interaction logic in the game. Through these efforts, we were able to improve the stability of the VR connection.
 Another issue was computer overload caused by high-poly models. We used some complex models and resources during the game development, which put pressure on computer performance. To resolve this issue, we optimized and compressed the models, including reducing polygon counts and using lower-resolution textures. By optimizing the models, we were able to reduce the hardware requirements of the game, enabling it to run smoothly on a wider range of devices.
@@ -154,7 +154,8 @@ Next, we will make necessary improvements and optimizations based on the test re
 
 <img src="https://github.com/ChaoT1de/Dream/assets/126697067/21a5cef6-5383-44d7-a281-1a69fea8dc2d" width="1000px">
 
-## Task
+
+## Tasks
 
 Kun Ouyang :          Village scene construction. Concept discussions. Writing logs. Providing . script copy. Collecting concept art. Game detail discussions.
 
