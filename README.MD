@@ -29,8 +29,15 @@ Jiayue He： 22012108
 
 <img src="https://github.com/ChaoT1de/Dream/assets/126697067/d8fa81c8-5462-47f6-8a45-d27e7b81abe9" width="1000px">
 
+<img src="https://github.com/ChaoT1de/Dream/assets/126697067/51571447-dfe7-4bd5-bb32-e08e661bad93" width="1000px">
 
+<img src="https://github.com/ChaoT1de/Dream/assets/126697067/09d55597-ed92-44af-8ea2-ba8675549cec" width="1000px">
 
+<img src="https://github.com/ChaoT1de/Dream/assets/126697067/f0c8b161-670e-4d7f-a197-8682a2a5524c" width="1000px">
+
+<img src="https://github.com/ChaoT1de/Dream/assets/126697067/0ec285eb-8c11-40ce-b919-ec7052a62fd0" width="1000px">
+
+<img src="https://github.com/ChaoT1de/Dream/assets/126697067/9f197de4-bd12-4f99-bcad-906bf8f292b9" width="1000px">
 
 ## Concept 
 "Dream" is an immersive VR experience game where players assume the role of a dreamer and explore within the dream world. Players will venture into a dream-like environment filled with seemingly rational yet inexplicable events and scenes. By exploring, they will uncover hidden plot Easter eggs within the game's progression, gradually unraveling the complete storyline of this dream world.
