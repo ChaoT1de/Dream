@@ -169,5 +169,16 @@ Yunfan Guo:          Debugging blueprint functionality. Implementation of bluepr
 Jiayue He:            Escape road scene construction. Concept discussions. Sound effect collection and processing. Scene construction. Game detail discussions. Video editing. Writing logs.
 
 ## Known Issues
-
+1.Large seamless immersive scenes perform poorly in VR devices.
+2.Unreal Engine 5's new technologies such as Nanite and Lumen are not supported in VR scenes in version 5.0.3.
+3.In Unreal Engine 5.1.1, there are conflicts in VR controller button mappings due to the transition from old input mappings to enhanced input. This issue was not thoroughly investigated due to time constraints, resulting in some blueprints not functioning in version 5.1. Therefore, certain blueprints for VR characters can only be compiled in version 5.0.
+4.Demonstration videos and screen recordings do not match due to device issues.
+5.Scene overexposure without a known cause. (Possibly due to lack of volumetric fog)
+6.VrPawn's viewpoint is too low for an unknown reason.
+7.Incompatibility between procedurally generated terrain and VR templates results in distorted terrain due to changes in the viewpoint.
+8.VR character models have differences between VRpawn and VRcharacter, with VRcharacter having a physical body while VRpawn does not. This oversight was not addressed due to time constraints, resulting in frequent clipping issues with VRpawn.
+9.Terrain undergoes changes before and after compilation for unknown reasons, causing frequent crashes during terrain sculpting.
+10.Use of Niagara and Cascade systems, even in small amounts, causes Unreal Engine to crash due to device limitations.
+11.Asset merging consumes a significant amount of time and currently has no solution.
+12.Unstable refresh rates causing motion sickness in VR experience.
 
