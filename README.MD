@@ -169,16 +169,27 @@ Yunfan Guo:          Debugging blueprint functionality. Implementation of bluepr
 Jiayue He:            Escape road scene construction. Concept discussions. Sound effect collection and processing. Scene construction. Game detail discussions. Video editing. Writing logs.
 
 ## Known Issues
-1.Large seamless immersive scenes perform poorly in VR devices.
-2.Unreal Engine 5's new technologies such as Nanite and Lumen are not supported in VR scenes in version 5.0.3.
-3.In Unreal Engine 5.1.1, there are conflicts in VR controller button mappings due to the transition from old input mappings to enhanced input. This issue was not thoroughly investigated due to time constraints, resulting in some blueprints not functioning in version 5.1. Therefore, certain blueprints for VR characters can only be compiled in version 5.0.
-4.Demonstration videos and screen recordings do not match due to device issues.
-5.Scene overexposure without a known cause. (Possibly due to lack of volumetric fog)
-6.VrPawn's viewpoint is too low for an unknown reason.
-7.Incompatibility between procedurally generated terrain and VR templates results in distorted terrain due to changes in the viewpoint.
-8.VR character models have differences between VRpawn and VRcharacter, with VRcharacter having a physical body while VRpawn does not. This oversight was not addressed due to time constraints, resulting in frequent clipping issues with VRpawn.
-9.Terrain undergoes changes before and after compilation for unknown reasons, causing frequent crashes during terrain sculpting.
-10.Use of Niagara and Cascade systems, even in small amounts, causes Unreal Engine to crash due to device limitations.
-11.Asset merging consumes a significant amount of time and currently has no solution.
-12.Unstable refresh rates causing motion sickness in VR experience.
+1. Large seamless immersive scenes perform poorly in VR devices.
+2. Unreal Engine 5's new technologies such as Nanite and Lumen are not supported in VR scenes in version 5.0.3.
+3. In Unreal Engine 5.1.1, there are conflicts in VR controller button mappings due to the transition from old input mappings to enhanced input. This issue was not thoroughly investigated due to time constraints, resulting in some blueprints not functioning in version 5.1. Therefore, certain blueprints for VR characters can only be compiled in version 5.0.
+4. Demonstration videos and screen recordings do not match due to device issues.
+5. Scene overexposure without a known cause. (Possibly due to lack of volumetric fog)
+6. VrPawn's viewpoint is too low for an unknown reason.
+7. Incompatibility between procedurally generated terrain and VR templates results in distorted terrain due to changes in the viewpoint.
+8. VR character models have differences between VRpawn and VRcharacter, with VRcharacter having a physical body while VRpawn does not. This oversight was not addressed due to time constraints, resulting in frequent clipping issues with VRpawn.
+9. Terrain undergoes changes before and after compilation for unknown reasons, causing frequent crashes during terrain sculpting.
+10. Use of Niagara and Cascade systems, even in small amounts, causes Unreal Engine to crash due to device limitations.
+11. Asset merging consumes a significant amount of time and currently has no solution.
+12. Unstable refresh rates causing motion sickness in VR experience.
 
+## Future Development
+Enrich the scenes: add story-related items, enrich the details and lighting of the screen, focus on the unity of the scenes, enhance the authenticity of the story, make the story more complete and realistic, and allow players to be more immersed in the compelling story. 
+Add interactive plots and eggs: improve the actions of NPCs and increase the immersion of player-NPC interaction. Enhance the fluidity of interactive behaviour in interactive props to give players a better exploration experience. 
+Add technology: Add artificial intelligence and machine learning to provide players with a personalised and intelligent gaming experience, making the game a more engaging and interactive learning experience, with NPCs responding in real time to player actions, providing players with an unprecedented immersive, interactive and personalised experience.
+
+## Summary
+During the development process of our UE5 immersive VR game, our team embarked on a challenging and creative journey. From the initial concept design to scene building, blueprint creation, and debugging, we invested a significant amount of time and effort to deliver an unforgettable gaming experience. Throughout this process, we encountered various issues and challenges.
+In scene building, complex models caused computer overload, necessitating scene optimization to ensure optimal performance and smooth gameplay. Additionally, blueprint creation and version management posed considerable challenges. However, through teamwork and perseverance, we successfully resolved these issues and ensured the smooth functioning of game features.
+Throughout the development process, we gained valuable experience and learned important lessons. We recognized the significance of attention to detail, from overall scene aesthetics to logical blueprint design. We prioritized every detail to create a realistic and captivating virtual world for players. Furthermore, we realized the importance of version control to facilitate seamless collaboration and integration among team members.
+In the end, we created an unforgettable virtual world for players, immersing them in a realistic and engaging gaming experience. Through collaboration and hard work, our team overcame various challenges and continuously improved all aspects of the game. This development process has equipped us with valuable experience and laid a solid foundation for future projects.
+Overall, the development process of our UE5 immersive VR game has been a journey filled with challenges and creativity. Our team will continue to strive for excellence, exploring new horizons and innovating to deliver outstanding gaming experiences for players.
