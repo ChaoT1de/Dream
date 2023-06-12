@@ -109,6 +109,13 @@ The focus of this week's work was primarily on scene merging and model optimizat
 
 <img src="https://github.com/ChaoT1de/Dream/assets/126697067/18aef99e-6e6b-453f-bd3d-558bf9a64cd8" width="1000px">
 
+<img src="https://github.com/ChaoT1de/Dream/assets/126697067/1f4e843b-9a8d-4b90-94e5-e968ebdd61ee" width="1000px">
+
+<img src="https://github.com/ChaoT1de/Dream/assets/126697067/ab62771c-d0c4-44cb-9a6a-05d5fcc18e05" width="1000px">
+
+<img src="https://github.com/ChaoT1de/Dream/assets/126697067/faabe3a9-a7d0-4797-8d40-25b63a95ebe7" width="1000px">
+
+
 ### Week4: Scene construction and blueprint development are being carried out simultaneously
 This week, we continued our work on scene construction and UE5 blueprint development. The team members allocated their focus to these two aspects to ensure the synchronized progress of the game's scenes and interaction systems.
 In terms of scene construction, we faced some challenges, particularly in rapidly depicting vegetation and reshaping the terrain. To address these issues, we conducted practical experiments and trials. We found that utilizing UE5's vegetation painting tool and terrain editor could effectively expedite vegetation placement and terrain adjustments. By using suitable vegetation assets and adjusting their parameters, we were able to quickly create natural and diverse scenes. However, this also led to a challenge as the terrain editor and vegetation painting tool increased the performance cost imposed by the lighting system.
