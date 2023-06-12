@@ -68,4 +68,106 @@ After taking off the VR headset, a person wearing a mask stands in front of the 
 ## Game Style:
 The game style incorporates elements of Gothic, Medieval, Lovecraftian, andAnti-war themes.
 
+<img src="https://github.com/ChaoT1de/Dream/assets/126697067/17190f1d-0d6b-4916-b687-c044a9da24f0" width="295px"> <img src="https://github.com/ChaoT1de/Dream/assets/126697067/fe6961db-b6ee-4aba-90e9-83ea9c9a4e16" width="295px"> <img src="https://github.com/ChaoT1de/Dream/assets/126697067/47eee4a0-52f0-498a-b7ac-48365b9887df" width="295px">
+
+<img src="https://github.com/ChaoT1de/Dream/assets/126697067/e2ffdecd-4561-4562-ae03-db0a914a85d3" width="445px"> <img src="https://github.com/ChaoT1de/Dream/assets/126697067/01c4e7b7-2b3c-417e-8c15-28c01ff3a459" width="445px">
+
+<img src="https://github.com/ChaoT1de/Dream/assets/126697067/361f0ae2-6ff0-4f1a-8cfe-9e91db015302" width="295px"> <img src="https://github.com/ChaoT1de/Dream/assets/126697067/c40b70c7-cdf4-49b8-aebb-1d35f606cec3" width="295px"> <img src="https://github.com/ChaoT1de/Dream/assets/126697067/2bb73eaf-75ad-4c75-9657-2222f69b69d7" width="295px">
+
+## Game Mechanics:
+In the game's setting, the player enters a dream world, so there is no dialogue, and the player's next action is instructed through self-reference.There are four scene transitions in the game: Battlefield, Subway, Warehouse, Village, Escape Route, and Church. There are no additional cutscenes during scene transitions, allowing the player to freely move and smoothly transition from one scene to another, maintaining full control over the game's progression and exploration pace. This ensures a seamless and coherent gaming experience. When encountering specific events in the game, the player's sanity value will decrease, resulting in visual effects such as dark mist, distorted text, heartbeat sounds, screen filters, ringing in the ears, and more. These effects allow the player to experience the psychological changes of the character, further enhancing the depth and immersive nature of the game.
+
+## Development Process
+### We have organized, adapted, combined, and innovated the stories of the two dreams using Google Docs, UE5, and Xmind.
+### Week1: Project Kickoff and Concept Finalization
+This week marks the first week of our development of a VR game in UE5 focused on immersive experiences. To begin, we gathered the entire team for a project kickoff meeting. During the meeting, we clarified the project's goals and vision and defined the game's concept and core elements. We decided to develop an experiential VR game where players can explore the virtual world by touching, grabbing, and interacting with objects in the environment.
+Throughout this week, we started detailed concept design and requirements analysis. We discussed the level design, game mechanics, user interface, and other necessary aspects of the game, and created initial sketches and conceptual prototypes. Additionally, we established the project's development plan and timeline.
+In summary, the focus of this week was to establish the direction and objectives of the project, and define the game's concept and core elements. In the following weeks, we will further refine the concept design and begin developing the actual content of the game.
+
+<img src="https://github.com/ChaoT1de/Dream/assets/126697067/ffd68043-25ba-46f3-8d3c-d0dea94455d4" width="1000px">
+
+### Week2: Concept design and scene construction
+This week, we continued our work on concept design and game development. Based on the discussions and sketches from last week, we delved deeper into level design and game mechanics, and started creating a game flowchart to provide a clearer representation of the overall structure and gameplay of the game.
+Simultaneously, we made some attempts at concept art, but later realized that we could directly proceed with scene construction to visually showcase the game's environments and atmosphere. Leveraging the powerful tools and resources provided by UE5, our team members began working separately to create several key scenes in the game. During the process of creating these key scenes, we also developed the game's flowchart and further refined the level design and game mechanics based on it.
+Next, we will continue with scene construction and gradually refine the game's details and interactive elements. Additionally, we have started learning about blueprints to prepare for blueprint linking in the future.
+
+##### Issues：
+1.Regarding the issue of permissions with student accounts causing the school's public computers to be unable to use the Unreal Engine, a possible solution would be to purchase VR devices independently. By having your own VR equipment, you can use it with your personal computer or a computer that allows the necessary permissions and access to install and run the Unreal Engine.
+
+2.If the lack of a DisplayPort to HDMI cable is preventing you from using the school's public computers.
+
+### Week3: Scene construction and blueprint development are being carried out simultaneously
+This week, we continued our work on scene construction and blueprint development. The focus was on merging the scenes created by different team members and resolving any issues that arose during the merging process.
+However, we encountered some challenges during the scene merging. One major issue was the overload on the computers due to the size of some models. To address this problem, we started optimizing the models. By reducing polygon counts, adjusting material and texture resolutions, and employing other methods, we were able to reduce the complexity of the models and improve the performance of the scenes. Additionally, we began optimizing the models based on the game flow. According to the game's requirements, we made adjustments to the scene layout and model details to enhance the game's playability and immersion.
+Simultaneously, we continued with blueprint development to implement the interactive logic and functionality of the game. We integrated the blueprints with the scenes and conducted testing and debugging to ensure smoothness and stability in the game.
+The focus of this week's work was primarily on scene merging and model optimization. Through optimization and adjustments, we were able to better control the performance of the scenes and align them with the game's requirements. Moving forward, we will continue to refine the scenes and blueprints and gradually conduct testing and iteration to ensure the highest quality and user experience for the game.
+
+##### Issues：
+1. An Unreal Engine crash caused by insufficient memory running on the device's video memory. The solution was to adjust the resolution of model mapping and focus lighting rendering areas, change the one-shot experience to loading levels, and optimize the load of procedurally generated vegetation in dynamic lighting.
+
+2. ue5 path conflicts between versions prevented the download of Unreal Engine. The solution was to connect to a mobile hotspot (? Strange solution) then switch back to WIFI.
+
+<img src="https://github.com/ChaoT1de/Dream/assets/126697067/18aef99e-6e6b-453f-bd3d-558bf9a64cd8" width="1000px">
+
+### Week4: Scene construction and blueprint development are being carried out simultaneously
+This week, we continued our work on scene construction and UE5 blueprint development. The team members allocated their focus to these two aspects to ensure the synchronized progress of the game's scenes and interaction systems.
+In terms of scene construction, we faced some challenges, particularly in rapidly depicting vegetation and reshaping the terrain. To address these issues, we conducted practical experiments and trials. We found that utilizing UE5's vegetation painting tool and terrain editor could effectively expedite vegetation placement and terrain adjustments. By using suitable vegetation assets and adjusting their parameters, we were able to quickly create natural and diverse scenes. However, this also led to a challenge as the terrain editor and vegetation painting tool increased the performance cost imposed by the lighting system.
+Simultaneously, we proceeded with blueprint development, which is crucial for designing the game's interaction systems and implementing their functionalities. Since blueprints are a relatively complex task, we adopted an online live learning approach. The team members encountered some difficulties during the learning process, but with mutual assistance and support from online resources, we gradually grasped the fundamental principles and application methods of UE5 blueprints and began actively writing blueprints to realize the game's interaction logic.
+The work this week was relatively complex and technical, but we overcame some challenges and made progress. Next, we will continue our efforts in scene construction and blueprint development, focusing on optimizing and adjusting details to ensure that the game's visual effects and interactive experience meet the intended level of quality. We will also continue to learn and explore the features of UE5 to better support the game's development process.
+
+##### Issues：
+1.In the VR template, the player character's movement speed is too fast. We resolved this issue by adjusting the mapping scale of the input.
+
+<img src="https://github.com/ChaoT1de/Dream/assets/126697067/c6f833af-8da3-41bb-9f8d-3c428981a672" width="1000px">
+
+### Week5: Blueprint and Scene Debugging
+This week marks the final week of developing our UE5 immersive VR game. Based on the summaries from the previous weeks, we have decided to focus on optimizing the scenes to ensure smooth functionality and visual performance. Our main optimizations include adjusting the resolution of texture maps, fine-tuning non-critical areas of lighting, adjusting non-critical dynamic shadows, and optimizing the baking effects of static lighting. 
+In regards to blueprints, we carefully inspected and tested various interaction logics and functionalities in the game. We examined the connections and parameter settings of each blueprint node to ensure they function correctly according to design requirements. Additionally, we conducted multiple rounds of testing and debugging to identify and address any potential issues or errors. Through these efforts, we were able to ensure the smooth operation of the game's interaction systems, allowing players to interact properly with the virtual environment.
+For scene debugging, we emphasized both detail and performance optimization. We reviewed the lighting and material settings to ensure the visual effects of the scenes meet our expectations. We also conducted performance testing to identify any potential issues or lag that could affect frame rates, implementing appropriate optimizations accordingly. Through debugging and optimization, we aimed to enhance the visual quality and smoothness of the game, providing players with a better experience.
+This week's work represents the final phase of the entire development process, where we dedicated all our efforts to blueprint and scene debugging. Through meticulous inspection and testing, we ensured the proper functioning of the game's features and aimed to deliver the best gaming experience to players. Additionally, we conducted final optimizations to meet the expected standards in terms of performance and visual effects.
+Each week of the development process has been the result of our team's continuous efforts, and this final week represents the pinnacle of our teamwork. We will continue to pay attention to user feedback and proceed with subsequent updates and improvements to further enhance the quality and enjoyment of the game.
+
+##### Issues：
+1.The overlapping of too many movable light sources causes the disabling of shadow casting. The solution is to manually adjust the attenuation radius and outer cone angle of each movable light source one by one.
+
+2.The VR character model lacks friction with the ground, causing the protagonist to be unable to maintain consistent movement with the train in the train scene. The solution is to find models with collision volumes to block the character model.
+
+3.For specific character models, specific skeleton structures need to be constructed. Compiling skeleton animations for such models can result in difficulties in binding skeleton animations, preventing certain character models from performing specific actions.
+
+<img src="https://github.com/ChaoT1de/Dream/assets/126697067/74a124b8-6875-4cda-9700-a48d451a819a" width="1000px">
+
+<img src="https://github.com/ChaoT1de/Dream/assets/126697067/78f1a32c-7a50-43fe-bcbe-6671c1a32722" width="1000px">
+
+### Week6: Teat
+This week, we conducted testing for the game and encountered some issues during the process. We focused on testing the game's functionality and user experience to identify potential issues and areas for improvement.
+One issue we encountered was the stability of the VR connection. We found that in certain cases, there were issues with the connection between the VR device and the game, resulting in players unable to have a smooth experience. To address this issue, we conducted a series of tests and debugging, including checking the compatibility of devices and drivers, and optimizing the VR interaction logic in the game. Through these efforts, we were able to improve the stability of the VR connection.
+Another issue was computer overload caused by high-poly models. We used some complex models and resources during the game development, which put pressure on computer performance. To resolve this issue, we optimized and compressed the models, including reducing polygon counts and using lower-resolution textures. By optimizing the models, we were able to reduce the hardware requirements of the game, enabling it to run smoothly on a wider range of devices.
+Additionally, we encountered challenges related to version compatibility and integrating features in UE5.1. Since we were using the UE5.1 version, we faced some difficulties in integrating features and blueprints, as some mappings from older versions were not found. To address this issue, we performed version migration and adjusted the mappings, working closely with team members to resolve these issues.
+The focus of this week's work was primarily on testing the game and resolving issues. Through testing, we identified existing problems and took proactive measures to improve and optimize them. We also recognized the importance of version management to ensure smooth collaboration among team members and seamless integration of features.
+Next, we will make necessary improvements and optimizations based on the test results and user feedback to further enhance the quality and user experience of the game. We will also continue to address issues related to VR connectivity and performance optimization to ensure that the game runs smoothly on various devices and provides players with an immersive experience.
+
+
+##### Issues：
+1.Due to a device connection issue, whenever I reopen Unreal Engine, STEAMVR automatically restarts, causing Unreal Engine to crash. The solution is to prioritize connecting the VR device and then launching STEAMVR last.
+
+<img src="https://github.com/ChaoT1de/Dream/assets/126697067/3ac6b404-6d5d-4fad-a76a-8956efa35a63" width="1000px">
+
+<img src="https://github.com/ChaoT1de/Dream/assets/126697067/21a5cef6-5383-44d7-a281-1a69fea8dc2d" width="1000px">
+
+## Task
+
+Kun Ouyang :          Village scene construction. Concept discussions. Writing logs. Providing . script copy. Collecting concept art. Game detail discussions.
+
+Yue Zhan:            Warehouse and church scene construction. Concept discussions. Providing. script copy. Game detail discussions. Photography. Video editing. Writing logs.
+
+Shugela Kunanbayi:   Escape road scene construction. Concept discussions. Writing logs. Scene construction. Providing script copy. Game detail discussions. Photography.Video editing.
+
+Chao Qin:            Battlefield scene construction. Overall scene merging and terrain editing. Lighting effects and texture optimization. Concept discussions. Collecting concept art. Game detail discussions. Writing logs.
+
+Yunfan Guo:          Debugging blueprint functionality. Implementation of blueprint interactions. Writing AI blueprints for character interactions. Concept discussions. Sound effect collection. Game flowcharts. Game detail discussions. Writing logs.
+
+Jiayue He:            Escape road scene construction. Concept discussions. Sound effect collection and processing. Scene construction. Game detail discussions. Video editing. Writing logs.
+
+## Known Issues
+
 
