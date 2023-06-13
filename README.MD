@@ -199,15 +199,15 @@ Next, we will make necessary improvements and optimizations based on the test re
 
 ## Tasks
 
-Kun Ouyang :          Village scene construction. Concept discussions. Writing logs. Providing . script copy. Collecting concept art. Game detail discussions.
+Kun Ouyang :          Village scene construction. Concept discussions. Writing logs. Providing . script copy. Collecting concept art. Game detail discussions.  terrain editing
 
 Yue Zhan:            Warehouse and church scene construction. Concept discussions. Providing. script copy. Game detail discussions. Photography. Video editing. Writing logs.
 
 Shugela Kunanbayi:   Escape road scene construction. Concept discussions. Writing logs. Scene construction. Providing script copy. Game detail discussions. Photography.Video editing.
 
-Chao Qin:            Battlefield scene construction. Overall scene merging and terrain editing. Lighting effects and texture optimization. Concept discussions. Collecting concept art. Game detail discussions. Writing logs.
+Chao Qin:            Battlefield scene construction. Overall scene merging and terrain editing. Lighting effects and texture optimization. Concept discussions. Collecting concept art. Game detail discussions. Writing logs. Debug.
 
-Yunfan Guo:          Debugging blueprint functionality. Implementation of blueprint interactions. Writing AI blueprints for character interactions. Concept discussions. Sound effect collection. Game flowcharts. Game detail discussions. Writing logs.
+Yunfan Guo:          Debugging blueprint functionality. Implementation of blueprint interactions. Writing AI blueprints for character interactions. Concept discussions. Sound effect collection. Game flowcharts. Game detail discussions. Writing logs. real-time testing.
 
 Jiayue He:            Escape road scene construction. Concept discussions. Sound effect collection and processing. Video editing.
 
