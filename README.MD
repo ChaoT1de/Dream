@@ -13,7 +13,7 @@ Chao Qin: 22017368
 
 Yue Zhan: 21032825
 
-Ou Yang： 22010243
+Kun Ouyang： 22010243
 
 Yunfan Guo： 22039409
 
