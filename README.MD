@@ -48,7 +48,6 @@ Jiayue He： 22012108
 
 ##### We drew inspiration for this game from two dreams.
 
-
 Dream 1:
 
 A group of people went on a trip to a remote town, where the relatives of one of the companions lived. In the narrow alleyways, there was a group of elderly people, each with some form of disability, mostly facial disfigurements. The relative of the companion was an elderly woman dressed entirely in black, with her eyes covered by a black cloth. The town's men were all required to join the war effort, and due to the hasty recruitment, only a few managed to return, most of them with severe disabilities. Later, a doctor arrived in the town, carrying a black box (ITeM). If people made a wish, they could undergo limb transplants, sacrificing their own organs to obtain functional limbs. Initially, people only sacrificed their eyeballs to regain the limbs they lost in the war. However, they gradually started engaging in trades and crimes, using kidnapping and violence to forcibly transfer limbs and eyeballs from others to themselves, using these spare body parts for trade or engaging in even more violent acts. As a result, the number of deaths increased, and those who obtained spare organs often dreamed of living together with the deceased. (From Kun Ouyang)
@@ -100,7 +99,7 @@ The game style incorporates elements of Gothic, Medieval, Lovecraftian, andAnti-
 
 ![5](https://github.com/ChaoT1de/Dream/assets/126697067/1b024c7e-edf9-4ab0-8b10-c7ec71efeedc)
 
-![6](https://github.com/ChaoT1de/Dream/assets/126697067/48bd5049-f66c-4448-b41e-adf0cbbfce90) ![7](https://github.com/ChaoT1de/Dream/assets/126697067/b8684870-c648-48fc-9eca-e84681ed7f2d) ![8](https://github.com/ChaoT1de/Dream/assets/126697067/86d3c1c3-7f51-406f-b477-b2107301f31f)
+![6](https://github.com/ChaoT1de/Dream/assets/126697067/48bd5049-f66c-4448-b41e-adf0cbbfce90)   ![7](https://github.com/ChaoT1de/Dream/assets/126697067/b8684870-c648-48fc-9eca-e84681ed7f2d)   ![8](https://github.com/ChaoT1de/Dream/assets/126697067/86d3c1c3-7f51-406f-b477-b2107301f31f)
 
 
 ## Game Mechanics
@@ -137,14 +136,13 @@ The focus of this week's work was primarily on scene merging and model optimizat
 
 2. ue5 path conflicts between versions prevented the download of Unreal Engine. The solution was to connect to a mobile hotspot (? Strange solution) then switch back to WIFI.
 
-![Uploading week3.1.png…]()
+![week3 1](https://github.com/ChaoT1de/Dream/assets/126697067/6b7ee552-b058-4036-8fc8-a725f4508e6d)
 
-![Uploading week3.2.png…]()
+![3 2](https://github.com/ChaoT1de/Dream/assets/126697067/2e17bc3f-7e3a-4fff-8143-507fa15a5286)
 
-![Uploading week3.3.png…]()
+![3 3](https://github.com/ChaoT1de/Dream/assets/126697067/0c9b18b2-00be-46cc-9c49-4c2d261a95a0)
 
-![Uploading week3.4.png…]()
-
+![3 4](https://github.com/ChaoT1de/Dream/assets/126697067/6bd0d8d2-4100-47c5-b93b-1d4d6d4b454f)
 
 ### Week4: Scene construction and blueprint development are being carried out simultaneously
 This week, we continued our work on scene construction and UE5 blueprint development. The team members allocated their focus to these two aspects to ensure the synchronized progress of the game's scenes and interaction systems.
@@ -155,6 +153,7 @@ The work this week was relatively complex and technical, but we overcame some ch
 ##### Issues：
 1.In the VR template, the player character's movement speed is too fast. We resolved this issue by adjusting the mapping scale of the input.
 
+![4 1](https://github.com/ChaoT1de/Dream/assets/126697067/e5a52e2e-28e7-49c0-a121-9c32e6dbdd0b)
 
 
 ### Week5: Blueprint and Scene Debugging
@@ -171,9 +170,9 @@ Each week of the development process has been the result of our team's continuou
 
 3.For specific character models, specific skeleton structures need to be constructed. Compiling skeleton animations for such models can result in difficulties in binding skeleton animations, preventing certain character models from performing specific actions.
 
-<img src="https://github.com/ChaoT1de/Dream/assets/126697067/74a124b8-6875-4cda-9700-a48d451a819a" width="1000px">
+![5 1](https://github.com/ChaoT1de/Dream/assets/126697067/4113bc2c-eaea-43b4-98e5-69c14c809881)
 
-<img src="https://github.com/ChaoT1de/Dream/assets/126697067/78f1a32c-7a50-43fe-bcbe-6671c1a32722" width="1000px">
+
 
 ### Week6: Test
 This week, we conducted testing for the game and encountered some issues during the process. We focused on testing the game's functionality and user experience to identify potential issues and areas for improvement.
@@ -190,6 +189,7 @@ Next, we will make necessary improvements and optimizations based on the test re
 <img src="https://github.com/ChaoT1de/Dream/assets/126697067/3ac6b404-6d5d-4fad-a76a-8956efa35a63" width="1000px">
 
 <img src="https://github.com/ChaoT1de/Dream/assets/126697067/21a5cef6-5383-44d7-a281-1a69fea8dc2d" width="1000px">
+
 
 
 ## Tasks
