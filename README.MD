@@ -21,26 +21,6 @@ Jiayue He： 22012108
 
 # Final Presentation：
 
-<img src="https://github.com/ChaoT1de/Dream/assets/126697067/277e5139-1d17-4f95-a970-423be94b75dd" width="1000px">
-
-<img src="https://github.com/ChaoT1de/Dream/assets/126697067/402cf01c-278e-42f1-90d7-c16d4fabc33f" width="1000px">
-
-<img src="https://github.com/ChaoT1de/Dream/assets/126697067/f602416f-ddc7-4810-9a05-7c743a55cb3d" width="1000px">
-
-<img src="https://github.com/ChaoT1de/Dream/assets/126697067/e02fc7a1-591f-4bc0-adcd-c50ed81b20db" width="1000px">
-
-<img src="https://github.com/ChaoT1de/Dream/assets/126697067/d8fa81c8-5462-47f6-8a45-d27e7b81abe9" width="1000px">
-
-<img src="https://github.com/ChaoT1de/Dream/assets/126697067/51571447-dfe7-4bd5-bb32-e08e661bad93" width="1000px">
-
-<img src="https://github.com/ChaoT1de/Dream/assets/126697067/09d55597-ed92-44af-8ea2-ba8675549cec" width="1000px">
-
-<img src="https://github.com/ChaoT1de/Dream/assets/126697067/f0c8b161-670e-4d7f-a197-8682a2a5524c" width="1000px">
-
-<img src="https://github.com/ChaoT1de/Dream/assets/126697067/0ec285eb-8c11-40ce-b919-ec7052a62fd0" width="1000px">
-
-<img src="https://github.com/ChaoT1de/Dream/assets/126697067/9f197de4-bd12-4f99-bcad-906bf8f292b9" width="1000px">
-
 ![p1](https://github.com/ChaoT1de/Dream/assets/126697067/6f2079d3-5750-4ed8-a6c2-d1b381bee04d)
 
 ![p2](https://github.com/ChaoT1de/Dream/assets/126697067/7cc41f44-d840-429b-92a1-43963ded1e18)
@@ -110,11 +90,23 @@ After taking off the VR headset, a person wearing a mask stands in front of the 
 ## Game Style
 The game style incorporates elements of Gothic, Medieval, Lovecraftian, andAnti-war themes.
 
-<img src="https://github.com/ChaoT1de/Dream/assets/126697067/17190f1d-0d6b-4916-b687-c044a9da24f0" width="295px"> <img src="https://github.com/ChaoT1de/Dream/assets/126697067/fe6961db-b6ee-4aba-90e9-83ea9c9a4e16" width="295px"> <img src="https://github.com/ChaoT1de/Dream/assets/126697067/47eee4a0-52f0-498a-b7ac-48365b9887df" width="295px">
+<! img src="https://github.com/ChaoT1de/Dream/assets/126697067/17190f1d-0d6b-4916-b687-c044a9da24f0" width="295px"> <img src="https://github.com/ChaoT1de/Dream/assets/126697067/fe6961db-b6ee-4aba-90e9-83ea9c9a4e16" width="295px"> <img src="https://github.com/ChaoT1de/Dream/assets/126697067/47eee4a0-52f0-498a-b7ac-48365b9887df" width="295px">
 
-<img src="https://github.com/ChaoT1de/Dream/assets/126697067/e2ffdecd-4561-4562-ae03-db0a914a85d3" width="445px"> <img src="https://github.com/ChaoT1de/Dream/assets/126697067/01c4e7b7-2b3c-417e-8c15-28c01ff3a459" width="445px">
+! <img src="https://github.com/ChaoT1de/Dream/assets/126697067/e2ffdecd-4561-4562-ae03-db0a914a85d3" width="445px"> <img src="https://github.com/ChaoT1de/Dream/assets/126697067/01c4e7b7-2b3c-417e-8c15-28c01ff3a459" width="445px">
 
 <img src="https://github.com/ChaoT1de/Dream/assets/126697067/361f0ae2-6ff0-4f1a-8cfe-9e91db015302" width="295px"> <img src="https://github.com/ChaoT1de/Dream/assets/126697067/c40b70c7-cdf4-49b8-aebb-1d35f606cec3" width="295px"> <img src="https://github.com/ChaoT1de/Dream/assets/126697067/2bb73eaf-75ad-4c75-9657-2222f69b69d7" width="295px">
+
+![1](https://github.com/ChaoT1de/Dream/assets/126697067/7aba9430-f0dd-49ff-b69f-28cb77b54c64)
+
+![Uploading 2.png…]()
+
+![Uploading 3.png…]()
+
+![Uploading 4.png…]()
+
+
+![6](https://github.com/ChaoT1de/Dream/assets/126697067/48bd5049-f66c-4448-b41e-adf0cbbfce90) ![7](https://github.com/ChaoT1de/Dream/assets/126697067/b8684870-c648-48fc-9eca-e84681ed7f2d) ![8](https://github.com/ChaoT1de/Dream/assets/126697067/86d3c1c3-7f51-406f-b477-b2107301f31f)
+
 
 ## Game Mechanics
 In the game's setting, the player enters a dream world, so there is no dialogue, and the player's next action is instructed through self-reference.There are four scene transitions in the game: Battlefield, Subway, Warehouse, Village, Escape Route, and Church. There are no additional cutscenes during scene transitions, allowing the player to freely move and smoothly transition from one scene to another, maintaining full control over the game's progression and exploration pace. This ensures a seamless and coherent gaming experience. When encountering specific events in the game, the player's sanity value will decrease, resulting in visual effects such as dark mist, distorted text, heartbeat sounds, screen filters, ringing in the ears, and more. These effects allow the player to experience the psychological changes of the character, further enhancing the depth and immersive nature of the game.
@@ -126,7 +118,8 @@ This week marks the first week of our development of a VR game in UE5 focused on
 Throughout this week, we started detailed concept design and requirements analysis. We discussed the level design, game mechanics, user interface, and other necessary aspects of the game, and created initial sketches and conceptual prototypes. Additionally, we established the project's development plan and timeline.
 In summary, the focus of this week was to establish the direction and objectives of the project, and define the game's concept and core elements. In the following weeks, we will further refine the concept design and begin developing the actual content of the game.
 
-<img src="https://github.com/ChaoT1de/Dream/assets/126697067/ffd68043-25ba-46f3-8d3c-d0dea94455d4" width="1000px">
+! <img src="https://github.com/ChaoT1de/Dream/assets/126697067/ffd68043-25ba-46f3-8d3c-d0dea94455d4" width="1000px">
+![Uploading 游戏流程_00.png…]()
 
 ### Week2: Concept design and scene construction
 This week, we continued our work on concept design and game development. Based on the discussions and sketches from last week, we delved deeper into level design and game mechanics, and started creating a game flowchart to provide a clearer representation of the overall structure and gameplay of the game.
@@ -150,6 +143,7 @@ The focus of this week's work was primarily on scene merging and model optimizat
 2. ue5 path conflicts between versions prevented the download of Unreal Engine. The solution was to connect to a mobile hotspot (? Strange solution) then switch back to WIFI.
 
 <img src="https://github.com/ChaoT1de/Dream/assets/126697067/18aef99e-6e6b-453f-bd3d-558bf9a64cd8" width="1000px">
+
 
 <img src="https://github.com/ChaoT1de/Dream/assets/126697067/1f4e843b-9a8d-4b90-94e5-e968ebdd61ee" width="1000px">
 
