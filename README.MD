@@ -99,7 +99,7 @@ The game style incorporates elements of Gothic, Medieval, Lovecraftian, andAnti-
 
 ![5](https://github.com/ChaoT1de/Dream/assets/126697067/1b024c7e-edf9-4ab0-8b10-c7ec71efeedc)
 
-![6](https://github.com/ChaoT1de/Dream/assets/126697067/48bd5049-f66c-4448-b41e-adf0cbbfce90)   ![7](https://github.com/ChaoT1de/Dream/assets/126697067/b8684870-c648-48fc-9eca-e84681ed7f2d)   ![8](https://github.com/ChaoT1de/Dream/assets/126697067/86d3c1c3-7f51-406f-b477-b2107301f31f)
+![6](https://github.com/ChaoT1de/Dream/assets/126697067/7c3ec835-89df-49a3-aad3-9350324eb502) ![7](https://github.com/ChaoT1de/Dream/assets/126697067/c9a994c0-7358-40e4-926f-c9220689a572)  ![8](https://github.com/ChaoT1de/Dream/assets/126697067/f76dd242-a6b0-42a5-86b2-4c1485edd54f)
 
 
 ## Game Mechanics
@@ -172,6 +172,7 @@ Each week of the development process has been the result of our team's continuou
 
 ![5 1](https://github.com/ChaoT1de/Dream/assets/126697067/4113bc2c-eaea-43b4-98e5-69c14c809881)
 
+![5 2 2](https://github.com/ChaoT1de/Dream/assets/126697067/b83e9655-7040-477d-89d0-ba4d0e99a2ed)
 
 
 ### Week6: Test
@@ -186,11 +187,9 @@ Next, we will make necessary improvements and optimizations based on the test re
 ##### Issues：
 1.Due to a device connection issue, whenever I reopen Unreal Engine, STEAMVR automatically restarts, causing Unreal Engine to crash. The solution is to prioritize connecting the VR device and then launching STEAMVR last.
 
-<img src="https://github.com/ChaoT1de/Dream/assets/126697067/3ac6b404-6d5d-4fad-a76a-8956efa35a63" width="1000px">
+![6 1](https://github.com/ChaoT1de/Dream/assets/126697067/67236703-1d8b-4809-8216-b1a16eb46cca)
 
-<img src="https://github.com/ChaoT1de/Dream/assets/126697067/21a5cef6-5383-44d7-a281-1a69fea8dc2d" width="1000px">
-
-
+![6 2](https://github.com/ChaoT1de/Dream/assets/126697067/87a1b539-cfc6-4543-a2d4-efc21c8f8217)
 
 ## Tasks
 
