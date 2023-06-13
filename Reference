@@ -1,20 +1,29 @@
-Reference 
+**
+*****
+** Reference ** 
+*****
 
-1.NPC's Head Look At the Player： 
-"https://www.youtube.com/watch?v=8skq8t_Fffk"
 
-2.Making blueprints for openable doors：
-"https://www.bilibili.com/video/BV1o8411L7Qe/?spm_id_from=333.999.0.0&vd_source=1228222331b058642ff5c22067d4bb7f"
+## A reference on how some special requirements are implemented in the blueprint。
 
-3.Animation and blueprinting of the main character's hand model：
-https://www.bilibili.com/video/BV1S14y1P7Z4?p=3&vd_source=1228222331b058642ff5c22067d4bb7f
+   1.NPC's Head Look At the Player： 
+   "https://www.youtube.com/watch?v=8skq8t_Fffk"
 
-4.Making artificially intelligent NPCs：
-https://www.bilibili.com/video/BV1234y1q7Sz/?spm_id_from=333.999.0.0&vd_source=1228222331b058642ff5c22067d4bb7f
+   2.Making blueprints for openable doors：
+   "https://www.bilibili.com/video/BV1o8411L7Qe/?spm_id_from=333.999.0.0&vd_source=1228222331b058642ff5c22067d4bb7f"
 
-5.Making NPC characters move in specific areas：
-https://www.bilibili.com/video/BV1S14y1P7Z4?p=7&vd_source=1228222331b058642ff5c22067d4bb7f
+   3.Animation and blueprinting of the main character's hand model：
+   https://www.bilibili.com/video/BV1S14y1P7Z4?p=3&vd_source=1228222331b058642ff5c22067d4bb7f
 
-6.
+   4.Making artificially intelligent NPCs：
+   https://www.bilibili.com/video/BV1234y1q7Sz/?spm_id_from=333.999.0.0&vd_source=1228222331b058642ff5c22067d4bb7f
 
-7.
+   5.Making NPC characters move in specific areas：
+   https://www.bilibili.com/video/BV1S14y1P7Z4?p=7&vd_source=1228222331b058642ff5c22067d4bb7f
+
+   6.Making VR players control movement via joystick rocker：
+   https://www.youtube.com/watch?v=GlctYwY-m2w&list=PLBQVwo2nVNnrC1uGDl54A25LleoE2P-ay
+
+## About the model assets used in some projects
+
+   1.
