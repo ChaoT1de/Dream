@@ -99,7 +99,7 @@ The game style incorporates elements of Gothic, Medieval, Lovecraftian, andAnti-
 
 ![5](https://github.com/ChaoT1de/Dream/assets/126697067/1b024c7e-edf9-4ab0-8b10-c7ec71efeedc)
 
-![6](https://github.com/ChaoT1de/Dream/assets/126697067/7c3ec835-89df-49a3-aad3-9350324eb502) ![7](https://github.com/ChaoT1de/Dream/assets/126697067/c9a994c0-7358-40e4-926f-c9220689a572)  ![8](https://github.com/ChaoT1de/Dream/assets/126697067/f76dd242-a6b0-42a5-86b2-4c1485edd54f)
+![6](https://github.com/ChaoT1de/Dream/assets/126697067/7c3ec835-89df-49a3-aad3-9350324eb502)  ![7](https://github.com/ChaoT1de/Dream/assets/126697067/c9a994c0-7358-40e4-926f-c9220689a572)   ![8](https://github.com/ChaoT1de/Dream/assets/126697067/f76dd242-a6b0-42a5-86b2-4c1485edd54f)
 
 
 ## Game Mechanics
