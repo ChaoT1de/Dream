@@ -233,3 +233,36 @@ In scene building, complex models caused computer overload, necessitating scene 
 Throughout the development process, we gained valuable experience and learned important lessons. We recognized the significance of attention to detail, from overall scene aesthetics to logical blueprint design. We prioritized every detail to create a realistic and captivating virtual world for players. Furthermore, we realized the importance of version control to facilitate seamless collaboration and integration among team members.
 In the end, we created an unforgettable virtual world for players, immersing them in a realistic and engaging gaming experience. Through collaboration and hard work, our team overcame various challenges and continuously improved all aspects of the game. This development process has equipped us with valuable experience and laid a solid foundation for future projects.
 Overall, the development process of our UE5 immersive VR game has been a journey filled with challenges and creativity. Our team will continue to strive for excellence, exploring new horizons and innovating to deliver outstanding gaming experiences for players.
+
+
+## References
+### A reference on how some special requirements are implemented in the blueprint。
+
+   1.NPC's Head Look At the Player： 
+   "https://www.youtube.com/watch?v=8skq8t_Fffk"
+
+   2.Making blueprints for openable doors：
+   "https://www.bilibili.com/video/BV1o8411L7Qe/?spm_id_from=333.999.0.0&vd_source=1228222331b058642ff5c22067d4bb7f"
+
+   3.Animation and blueprinting of the main character's hand model：
+   https://www.bilibili.com/video/BV1S14y1P7Z4?p=3&vd_source=1228222331b058642ff5c22067d4bb7f
+
+   4.Making artificially intelligent NPCs：
+   https://www.bilibili.com/video/BV1234y1q7Sz/?spm_id_from=333.999.0.0&vd_source=1228222331b058642ff5c22067d4bb7f
+
+   5.Making NPC characters move in specific areas：
+   https://www.bilibili.com/video/BV1S14y1P7Z4?p=7&vd_source=1228222331b058642ff5c22067d4bb7f
+
+   6.Making VR players control movement via joystick rocker：
+   https://www.youtube.com/watch?v=GlctYwY-m2w&list=PLBQVwo2nVNnrC1uGDl54A25LleoE2P-ay
+
+### About the model assets used in some projects
+
+   1.Quixel Bridge(Ground material, forest vegetation, building exterior wall, stone and material,landscape， etc)
+   https://quixel.com/bridge
+   
+   2.VFX
+   https://www.unrealengine.com/marketplace/zh-CN/product/realistic-starter-vfx-pack-vol
+   
+   3.Destroyed Building Kit.zip
+   https://pan.baidu.com/s/1xr_u19n1g9VYd9FRolRDSw Code: fhxt 
