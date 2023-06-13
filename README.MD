@@ -272,3 +272,7 @@ Overall, the development process of our UE5 immersive VR game has been a journey
    
    4.Niagara Realistic Starter VFX Pack 2
    https://www.unrealengine.com/marketplace/zh-CN/product/niagara-realistic-starter-vfx-pack-2
+   
+   5.City Park Environment Collection LITE
+   https://www.unrealengine.com/marketplace/zh-CN/product/city-park-environment-collection-lite
+
