@@ -266,3 +266,6 @@ Overall, the development process of our UE5 immersive VR game has been a journey
    
    3.Destroyed Building Kit.zip
    https://pan.baidu.com/s/1xr_u19n1g9VYd9FRolRDSw Code: fhxt 
+   
+   4.Niagara Realistic Starter VFX Pack 2
+   https://www.unrealengine.com/marketplace/zh-CN/product/niagara-realistic-starter-vfx-pack-2
