@@ -275,4 +275,16 @@ Overall, the development process of our UE5 immersive VR game has been a journey
    
    5.City Park Environment Collection LITE
    https://www.unrealengine.com/marketplace/zh-CN/product/city-park-environment-collection-lite
+   
+   6.Merman Character
+   https://pan.baidu.com/s/1jnmunGDsdsm37VibILxMQw?pwd=7mqr Code：7mqr
+   
+   7.Adventure Character
+   https://www.unrealengine.com/marketplace/zh-CN/product/adventure-character
+   
+   8.Pirate
+   https://www.unrealengine.com/marketplace/zh-CN/product/pirate-01
+   
+   9.
+
 
