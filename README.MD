@@ -90,20 +90,15 @@ After taking off the VR headset, a person wearing a mask stands in front of the 
 ## Game Style
 The game style incorporates elements of Gothic, Medieval, Lovecraftian, andAnti-war themes.
 
-<! img src="https://github.com/ChaoT1de/Dream/assets/126697067/17190f1d-0d6b-4916-b687-c044a9da24f0" width="295px"> <img src="https://github.com/ChaoT1de/Dream/assets/126697067/fe6961db-b6ee-4aba-90e9-83ea9c9a4e16" width="295px"> <img src="https://github.com/ChaoT1de/Dream/assets/126697067/47eee4a0-52f0-498a-b7ac-48365b9887df" width="295px">
-
-! <img src="https://github.com/ChaoT1de/Dream/assets/126697067/e2ffdecd-4561-4562-ae03-db0a914a85d3" width="445px"> <img src="https://github.com/ChaoT1de/Dream/assets/126697067/01c4e7b7-2b3c-417e-8c15-28c01ff3a459" width="445px">
-
-<img src="https://github.com/ChaoT1de/Dream/assets/126697067/361f0ae2-6ff0-4f1a-8cfe-9e91db015302" width="295px"> <img src="https://github.com/ChaoT1de/Dream/assets/126697067/c40b70c7-cdf4-49b8-aebb-1d35f606cec3" width="295px"> <img src="https://github.com/ChaoT1de/Dream/assets/126697067/2bb73eaf-75ad-4c75-9657-2222f69b69d7" width="295px">
-
 ![1](https://github.com/ChaoT1de/Dream/assets/126697067/7aba9430-f0dd-49ff-b69f-28cb77b54c64)
 
-![Uploading 2.png…]()
+![2](https://github.com/ChaoT1de/Dream/assets/126697067/a3eeccc6-db28-439d-b9af-7874b1b917b9)
 
-![Uploading 3.png…]()
+![3](https://github.com/ChaoT1de/Dream/assets/126697067/82fcd5de-a31e-4581-bdb4-2d3abba71136)
 
-![Uploading 4.png…]()
+![4](https://github.com/ChaoT1de/Dream/assets/126697067/ebe5f94c-088e-4172-a519-595b7a8dcd6c)
 
+![5](https://github.com/ChaoT1de/Dream/assets/126697067/1b024c7e-edf9-4ab0-8b10-c7ec71efeedc)
 
 ![6](https://github.com/ChaoT1de/Dream/assets/126697067/48bd5049-f66c-4448-b41e-adf0cbbfce90) ![7](https://github.com/ChaoT1de/Dream/assets/126697067/b8684870-c648-48fc-9eca-e84681ed7f2d) ![8](https://github.com/ChaoT1de/Dream/assets/126697067/86d3c1c3-7f51-406f-b477-b2107301f31f)
 
@@ -118,8 +113,6 @@ This week marks the first week of our development of a VR game in UE5 focused on
 Throughout this week, we started detailed concept design and requirements analysis. We discussed the level design, game mechanics, user interface, and other necessary aspects of the game, and created initial sketches and conceptual prototypes. Additionally, we established the project's development plan and timeline.
 In summary, the focus of this week was to establish the direction and objectives of the project, and define the game's concept and core elements. In the following weeks, we will further refine the concept design and begin developing the actual content of the game.
 
-! <img src="https://github.com/ChaoT1de/Dream/assets/126697067/ffd68043-25ba-46f3-8d3c-d0dea94455d4" width="1000px">
-![Uploading 游戏流程_00.png…]()
 
 ### Week2: Concept design and scene construction
 This week, we continued our work on concept design and game development. Based on the discussions and sketches from last week, we delved deeper into level design and game mechanics, and started creating a game flowchart to provide a clearer representation of the overall structure and gameplay of the game.
@@ -130,6 +123,8 @@ Next, we will continue with scene construction and gradually refine the game's d
 1.Regarding the issue of permissions with student accounts causing the school's public computers to be unable to use the Unreal Engine, a possible solution would be to purchase VR devices independently. By having your own VR equipment, you can use it with your personal computer or a computer that allows the necessary permissions and access to install and run the Unreal Engine.
 
 2.If the lack of a DisplayPort to HDMI cable is preventing you from using the school's public computers.
+
+![游戏流程_00](https://github.com/ChaoT1de/Dream/assets/126697067/7ff7a594-2095-4fe8-8994-5f9e37cf3792)
 
 ### Week3: Scene construction and blueprint development are being carried out simultaneously
 This week, we continued our work on scene construction and blueprint development. The focus was on merging the scenes created by different team members and resolving any issues that arose during the merging process.
@@ -142,14 +137,13 @@ The focus of this week's work was primarily on scene merging and model optimizat
 
 2. ue5 path conflicts between versions prevented the download of Unreal Engine. The solution was to connect to a mobile hotspot (? Strange solution) then switch back to WIFI.
 
-<img src="https://github.com/ChaoT1de/Dream/assets/126697067/18aef99e-6e6b-453f-bd3d-558bf9a64cd8" width="1000px">
+![Uploading week3.1.png…]()
 
+![Uploading week3.2.png…]()
 
-<img src="https://github.com/ChaoT1de/Dream/assets/126697067/1f4e843b-9a8d-4b90-94e5-e968ebdd61ee" width="1000px">
+![Uploading week3.3.png…]()
 
-<img src="https://github.com/ChaoT1de/Dream/assets/126697067/ab62771c-d0c4-44cb-9a6a-05d5fcc18e05" width="1000px">
-
-<img src="https://github.com/ChaoT1de/Dream/assets/126697067/faabe3a9-a7d0-4797-8d40-25b63a95ebe7" width="1000px">
+![Uploading week3.4.png…]()
 
 
 ### Week4: Scene construction and blueprint development are being carried out simultaneously
@@ -161,7 +155,7 @@ The work this week was relatively complex and technical, but we overcame some ch
 ##### Issues：
 1.In the VR template, the player character's movement speed is too fast. We resolved this issue by adjusting the mapping scale of the input.
 
-<img src="https://github.com/ChaoT1de/Dream/assets/126697067/c6f833af-8da3-41bb-9f8d-3c428981a672" width="1000px">
+
 
 ### Week5: Blueprint and Scene Debugging
 This week marks the final week of developing our UE5 immersive VR game. Based on the summaries from the previous weeks, we have decided to focus on optimizing the scenes to ensure smooth functionality and visual performance. Our main optimizations include adjusting the resolution of texture maps, fine-tuning non-critical areas of lighting, adjusting non-critical dynamic shadows, and optimizing the baking effects of static lighting. 
