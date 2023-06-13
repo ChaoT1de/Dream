@@ -209,7 +209,7 @@ Chao Qin:            Battlefield scene construction. Overall scene merging and t
 
 Yunfan Guo:          Debugging blueprint functionality. Implementation of blueprint interactions. Writing AI blueprints for character interactions. Concept discussions. Sound effect collection. Game flowcharts. Game detail discussions. Writing logs.
 
-Jiayue He:            Escape road scene construction. Concept discussions. Sound effect collection and processing. Video editing. Writing logs.
+Jiayue He:            Escape road scene construction. Concept discussions. Sound effect collection and processing. Video editing.
 
 ## Known Issues
 1. Large seamless immersive scenes perform poorly in VR devices.
