@@ -236,7 +236,7 @@ Overall, the development process of our UE5 immersive VR game has been a journey
 
 
 ## References
-### A reference on how some special requirements are implemented in the blueprint。
+##### A reference on how some special requirements are implemented in the blueprint。
 
    1.NPC's Head Look At the Player： 
    "https://www.youtube.com/watch?v=8skq8t_Fffk"
@@ -256,7 +256,7 @@ Overall, the development process of our UE5 immersive VR game has been a journey
    6.Making VR players control movement via joystick rocker：
    https://www.youtube.com/watch?v=GlctYwY-m2w&list=PLBQVwo2nVNnrC1uGDl54A25LleoE2P-ay
 
-### About the model assets used in some projects
+##### About the model assets used in some projects
 
    1.Quixel Bridge(Ground material, forest vegetation, building exterior wall, stone and material,landscape， etc)
    https://quixel.com/bridge
